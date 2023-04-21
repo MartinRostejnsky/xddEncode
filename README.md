@@ -4,4 +4,4 @@
 `./setup.sh` \
 restart terminal
 
-Debian distributions ONLY
+Debian distributions ONLY!
