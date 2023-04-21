@@ -4,4 +4,4 @@
 `./setup.sh` \
 restart terminal
 
-Debian distributions ONLY!
+adds suport for arch with bash or zsh
