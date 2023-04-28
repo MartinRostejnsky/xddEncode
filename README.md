@@ -3,7 +3,7 @@
 To install xddEncode, run the following command:\
 `curl -sSL https://raw.githubusercontent.com/MartinRostejnsky/xddEncode/main/setup.sh | bash`
 
-> If you encounter any issues, you can try the following alternative command:\
+> If you encounter any issues, you can try the following alternative command:
 >
 > `wget https://raw.githubusercontent.com/MartinRostejnsky/xddEncode/main/setup.sh && chmod +x setup.sh && ./setup.sh`
 
