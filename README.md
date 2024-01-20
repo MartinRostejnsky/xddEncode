@@ -1,4 +1,7 @@
 # xddEncode 
+> [!WARNING]  
+> This project is unmaintained, and probably doesn't even work atm
+
 ## Installation
 To install xddEncode, run the following command:\
 `curl -sSL https://raw.githubusercontent.com/MartinRostejnsky/xddEncode/main/setup.sh | bash`
